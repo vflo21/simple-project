@@ -1,0 +1,2 @@
+# simple-project
+just practicing 
